@@ -1,7 +1,7 @@
 # README.md-Generator---UNC-M9---Zac-Ellis
 
 ## Table of contents
-5.) Testing Instructions (#test)
+5.) [Testing Instructions](#test)
 
 
 ## Description
