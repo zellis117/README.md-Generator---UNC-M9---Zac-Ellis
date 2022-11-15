@@ -37,5 +37,5 @@ Just run and go
 <a name="contact"></a>
 ## Contact
 
-For additional questions, please contact: <href src=https://github.com/zellis117>Zellis</href> on GitHub or email zac@test.com
+For additional questions, please contact: <a href=https://github.com/zellis117>Zellis</a> on GitHub or email zac@test.com
 
