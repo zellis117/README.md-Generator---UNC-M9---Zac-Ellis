@@ -1,4 +1,4 @@
-# Test Project
+# Test project
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Table of Contents
@@ -12,17 +12,17 @@
 <a name="description"></a>
 ## Description
 
-A test README run frunction.
+Simple test project
 
 <a name="install"></a>
 ## Install Instructions
 
-download npm packages
+install npm packages
 
 <a name="usage"></a>
 ## Usage
 
-type "node index.js" and magic!
+type node index.js
 
 <a name="contributers"></a>
 ## Contributers
@@ -32,10 +32,10 @@ Zac Ellis
 <a name="testing"></a>
 ## Testing Instructions
 
-Just run and go
+just run it
 
 <a name="contact"></a>
 ## Contact
 
-For additional questions, please contact: <a href=https://github.com/zellis117>Zellis</a> on GitHub or email zac@test.com
+For additional questions, please contact: <a href=https://github.com/undefined>zellis117</a> on GitHub or email zac@test.com
 
