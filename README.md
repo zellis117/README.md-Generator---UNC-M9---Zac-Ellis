@@ -28,6 +28,8 @@ Zac Ellis
 
 <a name="test"></a>
 ## Testing Instructions
+Run application and answer prompts. 
+Delete created README.md after verifiying it worked. 
 
 <a name="contact"></a>
 ## Contact Information
@@ -35,3 +37,4 @@ GitHub: zellis117 , Email: zacellis117@gmail.com
 
 <a name="screenShots"></a>
 ## Screen Shots
+![Alt Screenshot of application running](./images/screenShot1.jpg)
